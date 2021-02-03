@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Yashvi Nathwani",
+    "occupation": "Computer Engineer",
+    "description": " Eat->Sleep->Code->Repeat",
+    "image": "profilepic.jpg",
+    "bio": "Hello there, I am Yashvi! I am a Computer Engineer and I have been working as a react native developer for a year now. I've developed some small and large scale projects till now and I am facinated by how working with react gives you the feasibility to work on web , android/ios. I have yet to learn a lot about react and I am attending some online classes to enhance my knowledge abouth the subject. Besides coding I am fond of reading and I have read some great books till now, A thousand spelndid son is one of my favourite book.",
+    "contactmessage": "Get in touch with me",
+    "email": "ybnathwani@gmail.com",
+    "phone": "+91 1234567890",
+    "address": {
+      "street": "Kalawa Chowk",
+      "city": "Gujarat",
+      "state": "India",
+      "zip": "360005"
+    },
+    "website": "https://www.linkedin.com/in/yashvi-nathwani-84b028145/",
+    "resumedownload": "https://www.linkedin.com/in/yashvi-nathwani-84b028145/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yashvi.nathwani.7/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yashvi-nathwani-84b028145/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yashvi_nathwani/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/yashvinathwani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gujarat Technological University - India",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "Auguest 2020",
+        "description": "Graduated with 8.89 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Yournxt Technologies",
+        "title": "Developer",
+        "years": "Jan 2020 - Present",
+        "description": "Developing small and large scale react projects for different companies"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "JAVA",
+        "level": "85%"
+      },
+      {
+        "name": "Operating System",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Signal Clone (React Native)",
+        "category": "",
+        "image": "signal.jpg",
+        "url": "https://github.com/yashvinathwani/signal-clone-yt/tree/master"
+      },
+      {
+        "title": "Canteen Automation System (JAVA Private Project)",
+        "category": "",
+        "image": "canteen.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Yashvi is a really hardworking person and always ready to learn and master new skills.",
+        "user": "Nirali Vadnagar"
+      },
+      {
+        "text": "Yashvi is one of those students who can not sleep until her work is done with perfection. Also she is very humble about how she approachs other people.",
+        "user": "Tosal Bhalodia"
+      }
+    ]
+  }
+}
